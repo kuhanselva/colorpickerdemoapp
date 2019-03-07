@@ -37,7 +37,7 @@ export default {
     <br />
     <br />
     <br />
-    <p>Selected color hexa color: {{ color.hue }}</p>
+    <p>Selected hexa color is : {{ color.hue }}</p>
   </Layout>
 </template>
 
